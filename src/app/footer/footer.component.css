@@ -1,0 +1,30 @@
+.submit-email{
+  height: 40px;
+}
+.btn-submit{
+  height: 40px;
+}
+.footer1{
+  margin-top: 2rem;
+  position: relative;
+  background-color: rgb(221, 212, 212);
+  height: 200px;
+}
+.footer2{
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer3{
+  margin-top: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p{
+  font-weight: bold;
+}

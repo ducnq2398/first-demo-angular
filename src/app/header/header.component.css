@@ -1,0 +1,35 @@
+.btnLogin{
+  float: right;
+  margin-top: 6px;
+}
+.logo{
+  margin-left: 1rem;
+  padding-top: 5px;
+}
+.content-header{
+  height: 50px;
+  background-color: black;
+}
+.menu-1{
+  margin-left: auto;
+  margin-right: auto;
+}
+.search{
+  margin-left: 10rem;
+}
+.cart{
+  margin-left: 2rem;
+}
+.navbar1{
+  margin-top: 1rem;
+  background-color: white;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 102px;
+}
