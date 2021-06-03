@@ -11,6 +11,8 @@ import { NewInComponent } from './new-in/new-in.component';
 import { LoginComponent } from './login/login.component';
 import { SigninComponent } from './signin/signin.component';
 import { HttpClientModule} from '@angular/common/http';
+import { ChildComponent } from './child/child.component';
+import { ParentComponent } from './parent/parent.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +21,9 @@ import { HttpClientModule} from '@angular/common/http';
     FooterComponent,
     NewInComponent,
     LoginComponent,
-    SigninComponent
+    SigninComponent,
+    ChildComponent,
+    ParentComponent
   ],
   imports: [
     BrowserModule,
